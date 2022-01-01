@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a loser who plays around with Linux and Hackintoshes.
+### Hi there 👋 I'm a Windows and Linux Systems Engineer who has more recently gotten into Hackintoshing as a hobby.
 
 <!--
 **H3LLC47/H3LLC47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
